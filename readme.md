@@ -6,4 +6,4 @@
 <p>       </p>
 <p>       </p>
 <h4>After:</h4>
-<img src=https://github.com/cvryn7/Image-Blur-Using-Cuda-C-/blob/master/Images/final_blur_10_adjacent_pixels.jpg"></img>
+<img src="https://github.com/cvryn7/Image-Blur-Using-Cuda-C-/blob/master/Images/final_blur_10_adjacent_pixels.jpg"></img>
